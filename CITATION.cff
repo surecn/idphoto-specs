@@ -5,8 +5,8 @@ type: dataset
 version: 1.0.0
 date-released: 2026-10-17
 license: CC-BY-4.0
-url: "https://github.com/idphotowork/specs"
-repository-code: "https://github.com/idphotowork/specs"
+url: "https://github.com/surecn/idphoto-specs"
+repository-code: "https://github.com/surecn/idphoto-specs"
 keywords:
   - passport photo
   - id photo

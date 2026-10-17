@@ -1,6 +1,6 @@
 {
   "$schema": "http://json-schema.org/draft-07/schema#",
-  "$id": "https://raw.githubusercontent.com/idphotowork/specs/main/schema/spec.schema.json",
+  "$id": "https://raw.githubusercontent.com/surecn/idphoto-specs/main/schema/spec.schema.json",
   "title": "Document photo specification",
   "description": "One record describes the photo requirements for a single document (passport, visa, ID card, licence or other photo ID). All physical measurements are in millimetres.",
   "type": "object",
