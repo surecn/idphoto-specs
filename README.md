@@ -1,6 +1,6 @@
 # Document Photo Specs
 
-**Open dataset of passport, visa and ID photo requirements for 164 countries — 724 documents, machine-readable, no API key required.**
+**Open dataset of passport, visa and ID photo requirements for 164 countries and territories — 724 documents, machine-readable, no API key required.**
 
 ![documents](https://img.shields.io/badge/documents-724-blue)
 ![countries](https://img.shields.io/badge/countries-164-green)
