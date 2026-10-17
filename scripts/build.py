@@ -334,7 +334,7 @@ def main() -> None:
         "recencyMonths", "guide", "source", "needsReview", "reviewNote",
     ]
     with (ROOT / "data" / "specs.csv").open("w", encoding="utf-8", newline="") as handle:
-        writer = csv.DictWriter(handle, fieldnames=columns, extrasaction="ignore")
+        writer = csv.DictWriter(handle, fieldnames=columns, extrasaction="ignore", lineterminator="\n")
         writer.writeheader()
         for record in published:
             writer.writerow({key: record.get(key, "") for key in columns})
