@@ -1,0 +1,49 @@
+[
+  {
+    "id": 396,
+    "countryCode": "MR",
+    "country": "mauritania",
+    "countryName": "Mauritania",
+    "documentType": "id_card",
+    "documentId": "mauritania_id_card",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 397,
+    "countryCode": "MR",
+    "country": "mauritania",
+    "countryName": "Mauritania",
+    "documentType": "passport",
+    "documentId": "mauritania_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 398,
+    "countryCode": "MR",
+    "country": "mauritania",
+    "countryName": "Mauritania",
+    "documentType": "visa",
+    "documentId": "mauritania_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "pixelWidth": 480,
+    "pixelHeight": 640
+  }
+]

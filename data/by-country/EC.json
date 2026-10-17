@@ -1,0 +1,17 @@
+[
+  {
+    "id": 173,
+    "countryCode": "EC",
+    "country": "ecuador",
+    "countryName": "Ecuador",
+    "documentType": "visa",
+    "documentId": "ecuador_visa",
+    "width": 50,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 305,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 50
+  }
+]

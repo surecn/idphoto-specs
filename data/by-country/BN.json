@@ -1,0 +1,32 @@
+[
+  {
+    "id": 89,
+    "countryCode": "BN",
+    "country": "brunei",
+    "countryName": "Brunei",
+    "documentType": "other",
+    "documentId": "brunei_emergency_certificate",
+    "width": 35,
+    "height": 42,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#3dabf8",
+    "widthMm": 35,
+    "heightMm": 42
+  },
+  {
+    "id": 90,
+    "countryCode": "BN",
+    "country": "brunei",
+    "countryName": "Brunei",
+    "documentType": "passport",
+    "documentId": "brunei_passport",
+    "width": 40,
+    "height": 52,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 52
+  }
+]

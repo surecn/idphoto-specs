@@ -1,0 +1,33 @@
+[
+  {
+    "id": 97,
+    "countryCode": "KH",
+    "country": "cambodia",
+    "countryName": "Cambodia",
+    "documentType": "passport",
+    "documentId": "cambodia_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 98,
+    "countryCode": "KH",
+    "country": "cambodia",
+    "countryName": "Cambodia",
+    "documentType": "visa",
+    "documentId": "cambodia_visa",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60,
+    "needsReview": true
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 425,
+    "countryCode": "NA",
+    "country": "namibia",
+    "countryName": "Namibia",
+    "documentType": "passport",
+    "documentId": "namibia_passport",
+    "width": 37,
+    "height": 52,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 37,
+    "heightMm": 52,
+    "needsReview": true
+  },
+  {
+    "id": 426,
+    "countryCode": "NA",
+    "country": "namibia",
+    "countryName": "Namibia",
+    "documentType": "visa",
+    "documentId": "namibia_visa",
+    "width": 37,
+    "height": 52,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 37,
+    "heightMm": 52
+  },
+  {
+    "id": 427,
+    "countryCode": "NA",
+    "country": "namibia",
+    "countryName": "Namibia",
+    "documentType": "visa",
+    "documentId": "namibia_visa_from_europe",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

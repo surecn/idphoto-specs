@@ -1,0 +1,32 @@
+[
+  {
+    "id": 360,
+    "countryCode": "LR",
+    "country": "liberia",
+    "countryName": "Liberia",
+    "documentType": "id_card",
+    "documentId": "liberia_seafarer_s_certification",
+    "width": 45,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 45,
+    "heightMm": 45
+  },
+  {
+    "id": 361,
+    "countryCode": "LR",
+    "country": "liberia",
+    "countryName": "Liberia",
+    "documentType": "passport",
+    "documentId": "liberia_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

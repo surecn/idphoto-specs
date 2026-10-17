@@ -1,0 +1,32 @@
+[
+  {
+    "id": 723,
+    "countryCode": "ZW",
+    "country": "zimbabwe",
+    "countryName": "Zimbabwe",
+    "documentType": "passport",
+    "documentId": "zimbabwe_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 724,
+    "countryCode": "ZW",
+    "country": "zimbabwe",
+    "countryName": "Zimbabwe",
+    "documentType": "visa",
+    "documentId": "zimbabwe_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

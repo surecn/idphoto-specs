@@ -1,0 +1,47 @@
+[
+  {
+    "id": 77,
+    "countryCode": "BW",
+    "country": "botswana",
+    "countryName": "Botswana",
+    "documentType": "id_card",
+    "documentId": "botswana_residence_permit",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 78,
+    "countryCode": "BW",
+    "country": "botswana",
+    "countryName": "Botswana",
+    "documentType": "passport",
+    "documentId": "botswana_passport",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 79,
+    "countryCode": "BW",
+    "country": "botswana",
+    "countryName": "Botswana",
+    "documentType": "visa",
+    "documentId": "botswana_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  }
+]

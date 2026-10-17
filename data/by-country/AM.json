@@ -1,0 +1,62 @@
+[
+  {
+    "id": 17,
+    "countryCode": "AM",
+    "country": "armenia",
+    "countryName": "Armenia",
+    "documentType": "id_card",
+    "documentId": "armenia_id_card",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 18,
+    "countryCode": "AM",
+    "country": "armenia",
+    "countryName": "Armenia",
+    "documentType": "other",
+    "documentId": "armenia_certificate_of_return",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 19,
+    "countryCode": "AM",
+    "country": "armenia",
+    "countryName": "Armenia",
+    "documentType": "visa",
+    "documentId": "armenia_e_visa_photo",
+    "width": 600,
+    "height": 600,
+    "unit": "px",
+    "dpi": 300,
+    "backgroundColor": "#eeeeee",
+    "pixelWidth": 600,
+    "pixelHeight": 600
+  },
+  {
+    "id": 20,
+    "countryCode": "AM",
+    "country": "armenia",
+    "countryName": "Armenia",
+    "documentType": "visa",
+    "documentId": "armenia_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

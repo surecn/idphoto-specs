@@ -1,0 +1,17 @@
+[
+  {
+    "id": 112,
+    "countryCode": "TD",
+    "country": "chad",
+    "countryName": "Chad",
+    "documentType": "passport",
+    "documentId": "chad_passport",
+    "width": 50,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 305,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 50
+  }
+]

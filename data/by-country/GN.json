@@ -1,0 +1,32 @@
+[
+  {
+    "id": 242,
+    "countryCode": "GN",
+    "country": "guinea",
+    "countryName": "Guinea",
+    "documentType": "visa",
+    "documentId": "guinea_conakry_e_visa",
+    "width": 150,
+    "height": 214,
+    "unit": "px",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "pixelWidth": 150,
+    "pixelHeight": 214
+  },
+  {
+    "id": 243,
+    "countryCode": "GN",
+    "country": "guinea",
+    "countryName": "Guinea",
+    "documentType": "visa",
+    "documentId": "guinea_conakry_visa",
+    "width": 35,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 50
+  }
+]

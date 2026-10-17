@@ -1,0 +1,62 @@
+[
+  {
+    "id": 41,
+    "countryCode": "BH",
+    "country": "bahrain",
+    "countryName": "Bahrain",
+    "documentType": "id_card",
+    "documentId": "bahrain_id_card",
+    "width": 240,
+    "height": 320,
+    "unit": "px",
+    "dpi": 300,
+    "backgroundColor": "#a8a8a8",
+    "pixelWidth": 240,
+    "pixelHeight": 320
+  },
+  {
+    "id": 42,
+    "countryCode": "BH",
+    "country": "bahrain",
+    "countryName": "Bahrain",
+    "documentType": "passport",
+    "documentId": "bahrain_e_passport",
+    "width": 33,
+    "height": 43,
+    "unit": "mm",
+    "dpi": 736,
+    "backgroundColor": "#ffffff",
+    "widthMm": 33,
+    "heightMm": 43
+  },
+  {
+    "id": 43,
+    "countryCode": "BH",
+    "country": "bahrain",
+    "countryName": "Bahrain",
+    "documentType": "passport",
+    "documentId": "bahrain_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 44,
+    "countryCode": "BH",
+    "country": "bahrain",
+    "countryName": "Bahrain",
+    "documentType": "visa",
+    "documentId": "bahrain_visa",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  }
+]

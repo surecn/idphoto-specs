@@ -1,0 +1,17 @@
+[
+  {
+    "id": 399,
+    "countryCode": "MU",
+    "country": "mauritius",
+    "countryName": "Mauritius",
+    "documentType": "passport",
+    "documentId": "mauritius_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

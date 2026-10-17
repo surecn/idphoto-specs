@@ -1,0 +1,40 @@
+[
+  {
+    "id": 190,
+    "countryCode": "EU",
+    "country": "european_union",
+    "countryName": "European Union",
+    "documentType": "id_card",
+    "documentId": "eu_blue_card",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "headMinMm": 32,
+    "headMaxMm": 36,
+    "expressionStrict": true,
+    "expression": "neutral, mouth closed, eyes open"
+  },
+  {
+    "id": 191,
+    "countryCode": "EU",
+    "country": "european_union",
+    "countryName": "European Union",
+    "documentType": "visa",
+    "documentId": "schengen_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "headMinMm": 32,
+    "headMaxMm": 36,
+    "expressionStrict": true,
+    "expression": "neutral, mouth closed, eyes open"
+  }
+]

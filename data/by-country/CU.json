@@ -1,0 +1,47 @@
+[
+  {
+    "id": 144,
+    "countryCode": "CU",
+    "country": "cuba",
+    "countryName": "Cuba",
+    "documentType": "id_card",
+    "documentId": "cuba_residence_abroad",
+    "width": 45,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 45,
+    "heightMm": 45
+  },
+  {
+    "id": 145,
+    "countryCode": "CU",
+    "country": "cuba",
+    "countryName": "Cuba",
+    "documentType": "visa",
+    "documentId": "cuba_tourist_card",
+    "width": 45,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 45,
+    "heightMm": 45
+  },
+  {
+    "id": 146,
+    "countryCode": "CU",
+    "country": "cuba",
+    "countryName": "Cuba",
+    "documentType": "visa",
+    "documentId": "cuba_visa",
+    "width": 45,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 45,
+    "heightMm": 45
+  }
+]

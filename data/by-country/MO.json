@@ -1,0 +1,62 @@
+[
+  {
+    "id": 377,
+    "countryCode": "MO",
+    "country": "macau",
+    "countryName": "Macao SAR (China)",
+    "documentType": "driving_licence",
+    "documentId": "macau_driving_licence",
+    "width": 32,
+    "height": 42,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 32,
+    "heightMm": 42
+  },
+  {
+    "id": 378,
+    "countryCode": "MO",
+    "country": "macau",
+    "countryName": "Macao SAR (China)",
+    "documentType": "id_card",
+    "documentId": "macau_resident_identity_card_bir",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 379,
+    "countryCode": "MO",
+    "country": "macau",
+    "countryName": "Macao SAR (China)",
+    "documentType": "passport",
+    "documentId": "macau_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 380,
+    "countryCode": "MO",
+    "country": "macau",
+    "countryName": "Macao SAR (China)",
+    "documentType": "visa",
+    "documentId": "macau_visa",
+    "width": 33,
+    "height": 48,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 33,
+    "heightMm": 48
+  }
+]

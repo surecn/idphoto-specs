@@ -1,0 +1,1005 @@
+{
+  "name": "IDPhotoWork Document Photo Specs",
+  "version": "1.0.0",
+  "generated": "2026-10-17",
+  "license": "CC BY 4.0",
+  "homepage": "https://www.idphotowork.com",
+  "documents": 724,
+  "countries": 164,
+  "documentsWithHeadHeight": 194,
+  "documentsNeedingReview": 43,
+  "byDocumentType": {
+    "driving_licence": 55,
+    "id_card": 194,
+    "other": 92,
+    "passport": 164,
+    "visa": 219
+  },
+  "sourceRows": 782,
+  "countriesIndex": [
+    {
+      "countryCode": "AF",
+      "country": "afghanistan",
+      "countryName": "Afghanistan",
+      "documents": 3
+    },
+    {
+      "countryCode": "AL",
+      "country": "albania",
+      "countryName": "Albania",
+      "documents": 3
+    },
+    {
+      "countryCode": "DZ",
+      "country": "algeria",
+      "countryName": "Algeria",
+      "documents": 5
+    },
+    {
+      "countryCode": "AO",
+      "country": "angola",
+      "countryName": "Angola",
+      "documents": 2
+    },
+    {
+      "countryCode": "AR",
+      "country": "argentina",
+      "countryName": "Argentina",
+      "documents": 3
+    },
+    {
+      "countryCode": "AM",
+      "country": "armenia",
+      "countryName": "Armenia",
+      "documents": 4
+    },
+    {
+      "countryCode": "AU",
+      "country": "australia",
+      "countryName": "Australia",
+      "documents": 6
+    },
+    {
+      "countryCode": "AT",
+      "country": "austria",
+      "countryName": "Austria",
+      "documents": 10
+    },
+    {
+      "countryCode": "AZ",
+      "country": "azerbaijan",
+      "countryName": "Azerbaijan",
+      "documents": 2
+    },
+    {
+      "countryCode": "BS",
+      "country": "bahamas",
+      "countryName": "Bahamas",
+      "documents": 2
+    },
+    {
+      "countryCode": "BH",
+      "country": "bahrain",
+      "countryName": "Bahrain",
+      "documents": 4
+    },
+    {
+      "countryCode": "BD",
+      "country": "bangladesh",
+      "countryName": "Bangladesh",
+      "documents": 6
+    },
+    {
+      "countryCode": "BB",
+      "country": "barbados",
+      "countryName": "Barbados",
+      "documents": 2
+    },
+    {
+      "countryCode": "BY",
+      "country": "belarus",
+      "countryName": "Belarus",
+      "documents": 5
+    },
+    {
+      "countryCode": "BE",
+      "country": "belgium",
+      "countryName": "Belgium",
+      "documents": 6
+    },
+    {
+      "countryCode": "BZ",
+      "country": "belize",
+      "countryName": "Belize",
+      "documents": 3
+    },
+    {
+      "countryCode": "BJ",
+      "country": "benin",
+      "countryName": "Benin",
+      "documents": 2
+    },
+    {
+      "countryCode": "BT",
+      "country": "bhutan",
+      "countryName": "Bhutan",
+      "documents": 1
+    },
+    {
+      "countryCode": "BO",
+      "country": "bolivia",
+      "countryName": "Bolivia",
+      "documents": 6
+    },
+    {
+      "countryCode": "BA",
+      "country": "bosnia_and_herzegovina",
+      "countryName": "Bosnia and Herzegovina",
+      "documents": 1
+    },
+    {
+      "countryCode": "BW",
+      "country": "botswana",
+      "countryName": "Botswana",
+      "documents": 3
+    },
+    {
+      "countryCode": "BR",
+      "country": "brazil",
+      "countryName": "Brazil",
+      "documents": 9
+    },
+    {
+      "countryCode": "BN",
+      "country": "brunei",
+      "countryName": "Brunei",
+      "documents": 2
+    },
+    {
+      "countryCode": "BG",
+      "country": "bulgaria",
+      "countryName": "Bulgaria",
+      "documents": 4
+    },
+    {
+      "countryCode": "BF",
+      "country": "burkina_faso",
+      "countryName": "Burkina Faso",
+      "documents": 2
+    },
+    {
+      "countryCode": "KH",
+      "country": "cambodia",
+      "countryName": "Cambodia",
+      "documents": 2
+    },
+    {
+      "countryCode": "CM",
+      "country": "cameroon",
+      "countryName": "Cameroon",
+      "documents": 3
+    },
+    {
+      "countryCode": "CA",
+      "country": "canada",
+      "countryName": "Canada",
+      "documents": 10
+    },
+    {
+      "countryCode": "TD",
+      "country": "chad",
+      "countryName": "Chad",
+      "documents": 1
+    },
+    {
+      "countryCode": "CL",
+      "country": "chile",
+      "countryName": "Chile",
+      "documents": 2
+    },
+    {
+      "countryCode": "CN",
+      "country": "china",
+      "countryName": "China",
+      "documents": 13
+    },
+    {
+      "countryCode": "CO",
+      "country": "colombia",
+      "countryName": "Colombia",
+      "documents": 6
+    },
+    {
+      "countryCode": "KM",
+      "country": "comoros",
+      "countryName": "Comoros",
+      "documents": 2
+    },
+    {
+      "countryCode": "CR",
+      "country": "costa_rica",
+      "countryName": "Costa Rica",
+      "documents": 3
+    },
+    {
+      "countryCode": "CI",
+      "country": "ivory_coast",
+      "countryName": "Cote d'Ivoire",
+      "documents": 1
+    },
+    {
+      "countryCode": "HR",
+      "country": "croatia",
+      "countryName": "Croatia",
+      "documents": 4
+    },
+    {
+      "countryCode": "CU",
+      "country": "cuba",
+      "countryName": "Cuba",
+      "documents": 3
+    },
+    {
+      "countryCode": "CY",
+      "country": "cyprus",
+      "countryName": "Cyprus",
+      "documents": 4
+    },
+    {
+      "countryCode": "CZ",
+      "country": "czech_republic",
+      "countryName": "Czech Republic",
+      "documents": 8
+    },
+    {
+      "countryCode": "CD",
+      "country": "congo_drc",
+      "countryName": "DR Congo",
+      "documents": 1
+    },
+    {
+      "countryCode": "DK",
+      "country": "denmark",
+      "countryName": "Denmark",
+      "documents": 7
+    },
+    {
+      "countryCode": "DJ",
+      "country": "Djibouti",
+      "countryName": "Djibouti",
+      "documents": 3
+    },
+    {
+      "countryCode": "DM",
+      "country": "dominica",
+      "countryName": "Dominica",
+      "documents": 1
+    },
+    {
+      "countryCode": "DO",
+      "country": "dominican_republic",
+      "countryName": "Dominican Republic",
+      "documents": 2
+    },
+    {
+      "countryCode": "EC",
+      "country": "ecuador",
+      "countryName": "Ecuador",
+      "documents": 1
+    },
+    {
+      "countryCode": "EG",
+      "country": "egypt",
+      "countryName": "Egypt",
+      "documents": 2
+    },
+    {
+      "countryCode": "GQ",
+      "country": "equatorial_guinea",
+      "countryName": "Equatorial Guinea",
+      "documents": 1
+    },
+    {
+      "countryCode": "EE",
+      "country": "estonia",
+      "countryName": "Estonia",
+      "documents": 8
+    },
+    {
+      "countryCode": "ET",
+      "country": "ethiopia",
+      "countryName": "Ethiopia",
+      "documents": 5
+    },
+    {
+      "countryCode": "EU",
+      "country": "european_union",
+      "countryName": "European Union",
+      "documents": 2
+    },
+    {
+      "countryCode": "FJ",
+      "country": "fiji",
+      "countryName": "Fiji",
+      "documents": 1
+    },
+    {
+      "countryCode": "FI",
+      "country": "finland",
+      "countryName": "Finland",
+      "documents": 8
+    },
+    {
+      "countryCode": "FR",
+      "country": "france",
+      "countryName": "France",
+      "documents": 9
+    },
+    {
+      "countryCode": "GA",
+      "country": "gabon",
+      "countryName": "Gabon",
+      "documents": 2
+    },
+    {
+      "countryCode": "GE",
+      "country": "georgia",
+      "countryName": "Georgia",
+      "documents": 9
+    },
+    {
+      "countryCode": "DE",
+      "country": "germany",
+      "countryName": "Germany",
+      "documents": 11
+    },
+    {
+      "countryCode": "GH",
+      "country": "ghana",
+      "countryName": "Ghana",
+      "documents": 3
+    },
+    {
+      "countryCode": "GR",
+      "country": "greece",
+      "countryName": "Greece",
+      "documents": 5
+    },
+    {
+      "countryCode": "GD",
+      "country": "grenada",
+      "countryName": "Grenada",
+      "documents": 1
+    },
+    {
+      "countryCode": "GT",
+      "country": "guatemala",
+      "countryName": "Guatemala",
+      "documents": 1
+    },
+    {
+      "countryCode": "GN",
+      "country": "guinea",
+      "countryName": "Guinea",
+      "documents": 2
+    },
+    {
+      "countryCode": "GW",
+      "country": "guinea_bissau",
+      "countryName": "Guinea-Bissau",
+      "documents": 2
+    },
+    {
+      "countryCode": "GY",
+      "country": "guyana",
+      "countryName": "Guyana",
+      "documents": 1
+    },
+    {
+      "countryCode": "HK",
+      "country": "hong_kong",
+      "countryName": "Hong Kong SAR (China)",
+      "documents": 7
+    },
+    {
+      "countryCode": "HU",
+      "country": "hungary",
+      "countryName": "Hungary",
+      "documents": 4
+    },
+    {
+      "countryCode": "IS",
+      "country": "iceland",
+      "countryName": "Iceland",
+      "documents": 9
+    },
+    {
+      "countryCode": "IN",
+      "country": "india",
+      "countryName": "India",
+      "documents": 17
+    },
+    {
+      "countryCode": "ID",
+      "country": "indonesia",
+      "countryName": "Indonesia",
+      "documents": 5
+    },
+    {
+      "countryCode": "IR",
+      "country": "iran",
+      "countryName": "Iran",
+      "documents": 1
+    },
+    {
+      "countryCode": "IQ",
+      "country": "iraq",
+      "countryName": "Iraq",
+      "documents": 4
+    },
+    {
+      "countryCode": "IE",
+      "country": "ireland",
+      "countryName": "Ireland",
+      "documents": 7
+    },
+    {
+      "countryCode": "IL",
+      "country": "israel",
+      "countryName": "Israel",
+      "documents": 3
+    },
+    {
+      "countryCode": "IT",
+      "country": "italy",
+      "countryName": "Italy",
+      "documents": 5
+    },
+    {
+      "countryCode": "JM",
+      "country": "jamaica",
+      "countryName": "Jamaica",
+      "documents": 1
+    },
+    {
+      "countryCode": "JP",
+      "country": "japan",
+      "countryName": "Japan",
+      "documents": 12
+    },
+    {
+      "countryCode": "JO",
+      "country": "jordan",
+      "countryName": "Jordan",
+      "documents": 5
+    },
+    {
+      "countryCode": "KZ",
+      "country": "kazakhstan",
+      "countryName": "Kazakhstan",
+      "documents": 6
+    },
+    {
+      "countryCode": "KE",
+      "country": "kenya",
+      "countryName": "Kenya",
+      "documents": 6
+    },
+    {
+      "countryCode": "KW",
+      "country": "kuwait",
+      "countryName": "Kuwait",
+      "documents": 7
+    },
+    {
+      "countryCode": "KG",
+      "country": "kyrgyzstan",
+      "countryName": "Kyrgyzstan",
+      "documents": 2
+    },
+    {
+      "countryCode": "LA",
+      "country": "laos",
+      "countryName": "Laos",
+      "documents": 2
+    },
+    {
+      "countryCode": "LV",
+      "country": "latvia",
+      "countryName": "Latvia",
+      "documents": 4
+    },
+    {
+      "countryCode": "LB",
+      "country": "lebanon",
+      "countryName": "Lebanon",
+      "documents": 5
+    },
+    {
+      "countryCode": "LS",
+      "country": "lesotho",
+      "countryName": "Lesotho",
+      "documents": 1
+    },
+    {
+      "countryCode": "LR",
+      "country": "liberia",
+      "countryName": "Liberia",
+      "documents": 2
+    },
+    {
+      "countryCode": "LY",
+      "country": "libya",
+      "countryName": "Libya",
+      "documents": 3
+    },
+    {
+      "countryCode": "LI",
+      "country": "liechtenstein",
+      "countryName": "Liechtenstein",
+      "documents": 5
+    },
+    {
+      "countryCode": "LT",
+      "country": "lithuania",
+      "countryName": "Lithuania",
+      "documents": 3
+    },
+    {
+      "countryCode": "LU",
+      "country": "luxembourg",
+      "countryName": "Luxembourg",
+      "documents": 4
+    },
+    {
+      "countryCode": "MO",
+      "country": "macau",
+      "countryName": "Macao SAR (China)",
+      "documents": 4
+    },
+    {
+      "countryCode": "MG",
+      "country": "madagascar",
+      "countryName": "Madagascar",
+      "documents": 3
+    },
+    {
+      "countryCode": "MW",
+      "country": "malawi",
+      "countryName": "Malawi",
+      "documents": 2
+    },
+    {
+      "countryCode": "MY",
+      "country": "malaysia",
+      "countryName": "Malaysia",
+      "documents": 7
+    },
+    {
+      "countryCode": "MV",
+      "country": "maldives",
+      "countryName": "Maldives",
+      "documents": 1
+    },
+    {
+      "countryCode": "MT",
+      "country": "malta",
+      "countryName": "Malta",
+      "documents": 2
+    },
+    {
+      "countryCode": "MR",
+      "country": "mauritania",
+      "countryName": "Mauritania",
+      "documents": 3
+    },
+    {
+      "countryCode": "MU",
+      "country": "mauritius",
+      "countryName": "Mauritius",
+      "documents": 1
+    },
+    {
+      "countryCode": "MX",
+      "country": "mexico",
+      "countryName": "Mexico",
+      "documents": 6
+    },
+    {
+      "countryCode": "MD",
+      "country": "moldova",
+      "countryName": "Moldova",
+      "documents": 3
+    },
+    {
+      "countryCode": "MN",
+      "country": "mongolia",
+      "countryName": "Mongolia",
+      "documents": 5
+    },
+    {
+      "countryCode": "ME",
+      "country": "montenegro",
+      "countryName": "Montenegro",
+      "documents": 1
+    },
+    {
+      "countryCode": "MA",
+      "country": "morocco",
+      "countryName": "Morocco",
+      "documents": 4
+    },
+    {
+      "countryCode": "MZ",
+      "country": "mozambique",
+      "countryName": "Mozambique",
+      "documents": 1
+    },
+    {
+      "countryCode": "MM",
+      "country": "myanmar",
+      "countryName": "Myanmar",
+      "documents": 5
+    },
+    {
+      "countryCode": "NA",
+      "country": "namibia",
+      "countryName": "Namibia",
+      "documents": 3
+    },
+    {
+      "countryCode": "NP",
+      "country": "nepal",
+      "countryName": "Nepal",
+      "documents": 4
+    },
+    {
+      "countryCode": "NL",
+      "country": "netherlands",
+      "countryName": "Netherlands",
+      "documents": 6
+    },
+    {
+      "countryCode": "NZ",
+      "country": "new_zealand",
+      "countryName": "New Zealand",
+      "documents": 11
+    },
+    {
+      "countryCode": "NI",
+      "country": "nicaragua",
+      "countryName": "Nicaragua",
+      "documents": 1
+    },
+    {
+      "countryCode": "NG",
+      "country": "nigeria",
+      "countryName": "Nigeria",
+      "documents": 6
+    },
+    {
+      "countryCode": "MK",
+      "country": "north_macedonia",
+      "countryName": "North Macedonia",
+      "documents": 2
+    },
+    {
+      "countryCode": "NO",
+      "country": "norway",
+      "countryName": "Norway",
+      "documents": 2
+    },
+    {
+      "countryCode": "OM",
+      "country": "oman",
+      "countryName": "Oman",
+      "documents": 5
+    },
+    {
+      "countryCode": "PK",
+      "country": "pakistan",
+      "countryName": "Pakistan",
+      "documents": 11
+    },
+    {
+      "countryCode": "PS",
+      "country": "palestinian_territories",
+      "countryName": "Palestinian Territories",
+      "documents": 3
+    },
+    {
+      "countryCode": "PA",
+      "country": "panama",
+      "countryName": "Panama",
+      "documents": 3
+    },
+    {
+      "countryCode": "PG",
+      "country": "papua_new_guinea",
+      "countryName": "Papua New Guinea",
+      "documents": 2
+    },
+    {
+      "countryCode": "PY",
+      "country": "paraguay",
+      "countryName": "Paraguay",
+      "documents": 2
+    },
+    {
+      "countryCode": "PE",
+      "country": "peru",
+      "countryName": "Peru",
+      "documents": 3
+    },
+    {
+      "countryCode": "PH",
+      "country": "philippines",
+      "countryName": "Philippines",
+      "documents": 7
+    },
+    {
+      "countryCode": "PL",
+      "country": "poland",
+      "countryName": "Poland",
+      "documents": 9
+    },
+    {
+      "countryCode": "PT",
+      "country": "portugal",
+      "countryName": "Portugal",
+      "documents": 6
+    },
+    {
+      "countryCode": "QA",
+      "country": "qatar",
+      "countryName": "Qatar",
+      "documents": 5
+    },
+    {
+      "countryCode": "CG",
+      "country": "congo_republic",
+      "countryName": "Republic of the Congo",
+      "documents": 1
+    },
+    {
+      "countryCode": "RO",
+      "country": "romania",
+      "countryName": "Romania",
+      "documents": 4
+    },
+    {
+      "countryCode": "RU",
+      "country": "russia",
+      "countryName": "Russia",
+      "documents": 20
+    },
+    {
+      "countryCode": "RW",
+      "country": "rwanda",
+      "countryName": "Rwanda",
+      "documents": 2
+    },
+    {
+      "countryCode": "KN",
+      "country": "saint_kitts_and_nevis",
+      "countryName": "Saint Kitts and Nevis",
+      "documents": 1
+    },
+    {
+      "countryCode": "WS",
+      "country": "samoa",
+      "countryName": "Samoa",
+      "documents": 2
+    },
+    {
+      "countryCode": "SA",
+      "country": "saudi_arabia",
+      "countryName": "Saudi Arabia",
+      "documents": 7
+    },
+    {
+      "countryCode": "RS",
+      "country": "serbia",
+      "countryName": "Serbia",
+      "documents": 2
+    },
+    {
+      "countryCode": "SC",
+      "country": "seychelles",
+      "countryName": "Seychelles",
+      "documents": 1
+    },
+    {
+      "countryCode": "SL",
+      "country": "sierra_leone",
+      "countryName": "Sierra Leone",
+      "documents": 1
+    },
+    {
+      "countryCode": "SG",
+      "country": "singapore",
+      "countryName": "Singapore",
+      "documents": 8
+    },
+    {
+      "countryCode": "SK",
+      "country": "slovakia",
+      "countryName": "Slovakia",
+      "documents": 3
+    },
+    {
+      "countryCode": "SI",
+      "country": "slovenia",
+      "countryName": "Slovenia",
+      "documents": 5
+    },
+    {
+      "countryCode": "SO",
+      "country": "somalia",
+      "countryName": "Somalia",
+      "documents": 2
+    },
+    {
+      "countryCode": "ZA",
+      "country": "south_africa",
+      "countryName": "South Africa",
+      "documents": 4
+    },
+    {
+      "countryCode": "KR",
+      "country": "south_korea",
+      "countryName": "South Korea",
+      "documents": 7
+    },
+    {
+      "countryCode": "ES",
+      "country": "spain",
+      "countryName": "Spain",
+      "documents": 7
+    },
+    {
+      "countryCode": "LK",
+      "country": "sri_lanka",
+      "countryName": "Sri Lanka",
+      "documents": 5
+    },
+    {
+      "countryCode": "SD",
+      "country": "sudan",
+      "countryName": "Sudan",
+      "documents": 3
+    },
+    {
+      "countryCode": "SR",
+      "country": "suriname",
+      "countryName": "Suriname",
+      "documents": 3
+    },
+    {
+      "countryCode": "SE",
+      "country": "sweden",
+      "countryName": "Sweden",
+      "documents": 4
+    },
+    {
+      "countryCode": "CH",
+      "country": "switzerland",
+      "countryName": "Switzerland",
+      "documents": 4
+    },
+    {
+      "countryCode": "SY",
+      "country": "syria",
+      "countryName": "Syria",
+      "documents": 5
+    },
+    {
+      "countryCode": "TJ",
+      "country": "tajikistan",
+      "countryName": "Tajikistan",
+      "documents": 2
+    },
+    {
+      "countryCode": "TZ",
+      "country": "tanzania",
+      "countryName": "Tanzania",
+      "documents": 3
+    },
+    {
+      "countryCode": "TH",
+      "country": "thailand",
+      "countryName": "Thailand",
+      "documents": 8
+    },
+    {
+      "countryCode": "TG",
+      "country": "togo",
+      "countryName": "Togo",
+      "documents": 2
+    },
+    {
+      "countryCode": "TN",
+      "country": "tunisia",
+      "countryName": "Tunisia",
+      "documents": 4
+    },
+    {
+      "countryCode": "TR",
+      "country": "turkey",
+      "countryName": "Turkey",
+      "documents": 6
+    },
+    {
+      "countryCode": "TM",
+      "country": "turkmenistan",
+      "countryName": "Turkmenistan",
+      "documents": 2
+    },
+    {
+      "countryCode": "UG",
+      "country": "uganda",
+      "countryName": "Uganda",
+      "documents": 3
+    },
+    {
+      "countryCode": "UA",
+      "country": "ukraine",
+      "countryName": "Ukraine",
+      "documents": 7
+    },
+    {
+      "countryCode": "AE",
+      "country": "united_arab_emirates",
+      "countryName": "United Arab Emirates",
+      "documents": 9
+    },
+    {
+      "countryCode": "GB",
+      "country": "united_kingdom",
+      "countryName": "United Kingdom",
+      "documents": 18
+    },
+    {
+      "countryCode": "US",
+      "country": "united_states",
+      "countryName": "United States",
+      "documents": 27
+    },
+    {
+      "countryCode": "UZ",
+      "country": "uzbekistan",
+      "countryName": "Uzbekistan",
+      "documents": 3
+    },
+    {
+      "countryCode": "VE",
+      "country": "venezuela",
+      "countryName": "Venezuela",
+      "documents": 2
+    },
+    {
+      "countryCode": "VN",
+      "country": "vietnam",
+      "countryName": "Vietnam",
+      "documents": 5
+    },
+    {
+      "countryCode": "YE",
+      "country": "yemen",
+      "countryName": "Yemen",
+      "documents": 3
+    },
+    {
+      "countryCode": "ZM",
+      "country": "zambia",
+      "countryName": "Zambia",
+      "documents": 2
+    },
+    {
+      "countryCode": "ZW",
+      "country": "zimbabwe",
+      "countryName": "Zimbabwe",
+      "documents": 2
+    }
+  ]
+}

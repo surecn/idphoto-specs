@@ -1,0 +1,32 @@
+[
+  {
+    "id": 456,
+    "countryCode": "MK",
+    "country": "north_macedonia",
+    "countryName": "North Macedonia",
+    "documentType": "driving_licence",
+    "documentId": "macedonia_driving_license",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 457,
+    "countryCode": "MK",
+    "country": "north_macedonia",
+    "countryName": "North Macedonia",
+    "documentType": "visa",
+    "documentId": "north_macedonia_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

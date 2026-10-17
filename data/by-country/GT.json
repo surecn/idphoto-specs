@@ -1,0 +1,17 @@
+[
+  {
+    "id": 241,
+    "countryCode": "GT",
+    "country": "guatemala",
+    "countryName": "Guatemala",
+    "documentType": "passport",
+    "documentId": "guatemala_passport",
+    "width": 26,
+    "height": 32,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 26,
+    "heightMm": 32
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 244,
+    "countryCode": "GW",
+    "country": "guinea_bissau",
+    "countryName": "Guinea-Bissau",
+    "documentType": "visa",
+    "documentId": "guinea_bissau_e_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 245,
+    "countryCode": "GW",
+    "country": "guinea_bissau",
+    "countryName": "Guinea-Bissau",
+    "documentType": "visa",
+    "documentId": "guinea_bissau_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  }
+]

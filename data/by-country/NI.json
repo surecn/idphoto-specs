@@ -1,0 +1,17 @@
+[
+  {
+    "id": 449,
+    "countryCode": "NI",
+    "country": "nicaragua",
+    "countryName": "Nicaragua",
+    "documentType": "passport",
+    "documentId": "nicaragua_passport",
+    "width": 40,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 50
+  }
+]

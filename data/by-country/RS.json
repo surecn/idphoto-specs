@@ -1,0 +1,32 @@
+[
+  {
+    "id": 553,
+    "countryCode": "RS",
+    "country": "serbia",
+    "countryName": "Serbia",
+    "documentType": "passport",
+    "documentId": "serbia_passport",
+    "width": 50,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 305,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 50
+  },
+  {
+    "id": 554,
+    "countryCode": "RS",
+    "country": "serbia",
+    "countryName": "Serbia",
+    "documentType": "visa",
+    "documentId": "serbia_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

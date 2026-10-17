@@ -1,0 +1,47 @@
+[
+  {
+    "id": 232,
+    "countryCode": "GH",
+    "country": "ghana",
+    "countryName": "Ghana",
+    "documentType": "passport",
+    "documentId": "ghana_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 233,
+    "countryCode": "GH",
+    "country": "ghana",
+    "countryName": "Ghana",
+    "documentType": "visa",
+    "documentId": "ghana_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 234,
+    "countryCode": "GH",
+    "country": "ghana",
+    "countryName": "Ghana",
+    "documentType": "visa",
+    "documentId": "ghana_visa_from_brazil",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  }
+]

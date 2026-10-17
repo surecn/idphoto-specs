@@ -1,0 +1,1282 @@
+{
+  "generated": "2026-10-17",
+  "sourceRows": 782,
+  "publishedRecords": 724,
+  "mergedGroups": 50,
+  "conflicts": 39,
+  "notes": [
+    "Groups below share the same (countryCode, documentId) but disagree on size.",
+    "The kept row prefers millimetre sizes and rows with more compliance fields.",
+    "Records flagged needsReview=true should be verified against an official source."
+  ],
+  "merged": [
+    {
+      "countryCode": "AE",
+      "documentId": "uae_id_card",
+      "rows": 2,
+      "keptId": 1196,
+      "droppedIds": [
+        1734
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "AF",
+      "documentId": "afghanistan_passport",
+      "rows": 2,
+      "keptId": 1002,
+      "droppedIds": [
+        1760
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "AF",
+      "documentId": "afghanistan_visa",
+      "rows": 2,
+      "keptId": 1251,
+      "droppedIds": [
+        1003
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "BD",
+      "documentId": "bangladesh_passport",
+      "rows": 3,
+      "keptId": 1289,
+      "droppedIds": [
+        1290,
+        1292
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "BD",
+      "documentId": "bangladesh_visa",
+      "rows": 2,
+      "keptId": 1295,
+      "droppedIds": [
+        1296
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "BJ",
+      "documentId": "benin_passport",
+      "rows": 2,
+      "keptId": 1309,
+      "droppedIds": [
+        1014
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "BS",
+      "documentId": "bahamas_passport",
+      "rows": 2,
+      "keptId": 1004,
+      "droppedIds": [
+        1775
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "CA",
+      "documentId": "canada_firearms_licence",
+      "rows": 2,
+      "keptId": 1341,
+      "droppedIds": [
+        1781
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "CA",
+      "documentId": "canada_permanent_resident_card",
+      "rows": 2,
+      "keptId": 1339,
+      "droppedIds": [
+        1780
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "CL",
+      "documentId": "chile_visa",
+      "rows": 2,
+      "keptId": 1347,
+      "droppedIds": [
+        1764
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "CM",
+      "documentId": "cameroon_passport",
+      "rows": 4,
+      "keptId": 1334,
+      "droppedIds": [
+        1335,
+        1336,
+        1020
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "CM",
+      "documentId": "cameroon_visa",
+      "rows": 2,
+      "keptId": 1337,
+      "droppedIds": [
+        1021
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "CR",
+      "documentId": "costa_rica_id_card",
+      "rows": 2,
+      "keptId": 1032,
+      "droppedIds": [
+        1361
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "CY",
+      "documentId": "cyprus_visa",
+      "rows": 2,
+      "keptId": 1368,
+      "droppedIds": [
+        1038
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "CZ",
+      "documentId": "czech_republic_passport",
+      "rows": 2,
+      "keptId": 1372,
+      "droppedIds": [
+        1765
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "GE",
+      "documentId": "georgia_e_visa",
+      "rows": 2,
+      "keptId": 1045,
+      "droppedIds": [
+        1051
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "GY",
+      "documentId": "guyana_passport",
+      "rows": 2,
+      "keptId": 1431,
+      "droppedIds": [
+        1432
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "ID",
+      "documentId": "indonesia_visa",
+      "rows": 3,
+      "keptId": 1076,
+      "droppedIds": [
+        1452,
+        1864
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "IL",
+      "documentId": "israel_passport",
+      "rows": 2,
+      "keptId": 1086,
+      "droppedIds": [
+        1458
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "IL",
+      "documentId": "israel_visa",
+      "rows": 2,
+      "keptId": 1087,
+      "droppedIds": [
+        1459
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "IN",
+      "documentId": "india_upsc",
+      "rows": 2,
+      "keptId": 1072,
+      "droppedIds": [
+        1803
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "IQ",
+      "documentId": "iraq_passport",
+      "rows": 2,
+      "keptId": 1078,
+      "droppedIds": [
+        1453
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "JM",
+      "documentId": "jamaica_passport",
+      "rows": 2,
+      "keptId": 1466,
+      "droppedIds": [
+        1467
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "JO",
+      "documentId": "jordan_id_card",
+      "rows": 2,
+      "keptId": 1481,
+      "droppedIds": [
+        1094
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "JO",
+      "documentId": "jordan_passport",
+      "rows": 2,
+      "keptId": 1479,
+      "droppedIds": [
+        1093
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "JP",
+      "documentId": "japan_resume",
+      "rows": 2,
+      "keptId": 1092,
+      "droppedIds": [
+        1475
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "KH",
+      "documentId": "cambodia_visa",
+      "rows": 3,
+      "keptId": 1018,
+      "droppedIds": [
+        1019,
+        1333
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "KW",
+      "documentId": "kuwait_visa",
+      "rows": 2,
+      "keptId": 1488,
+      "droppedIds": [
+        1102
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "LB",
+      "documentId": "lebanon_passport",
+      "rows": 2,
+      "keptId": 1496,
+      "droppedIds": [
+        1500
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "MG",
+      "documentId": "madagascar_visa",
+      "rows": 4,
+      "keptId": 1517,
+      "droppedIds": [
+        1518,
+        1768,
+        1119
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "MM",
+      "documentId": "myanmar_burma_visa",
+      "rows": 2,
+      "keptId": 1124,
+      "droppedIds": [
+        1125
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "MR",
+      "documentId": "mauritania_visa",
+      "rows": 2,
+      "keptId": 1536,
+      "droppedIds": [
+        1120
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "MT",
+      "documentId": "malta_passport",
+      "rows": 2,
+      "keptId": 1535,
+      "droppedIds": [
+        1533
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "MY",
+      "documentId": "malaysia_marriage_registration",
+      "rows": 2,
+      "keptId": 1531,
+      "droppedIds": [
+        1868
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "NA",
+      "documentId": "namibia_passport",
+      "rows": 2,
+      "keptId": 1561,
+      "droppedIds": [
+        1128
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "NP",
+      "documentId": "nepal_visa",
+      "rows": 2,
+      "keptId": 1130,
+      "droppedIds": [
+        1564
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "NZ",
+      "documentId": "new_zealand_citizenship",
+      "rows": 2,
+      "keptId": 1576,
+      "droppedIds": [
+        1815
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "PA",
+      "documentId": "panama_passport",
+      "rows": 3,
+      "keptId": 1144,
+      "droppedIds": [
+        1598,
+        1145
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "PA",
+      "documentId": "panama_seaman_s_book",
+      "rows": 2,
+      "keptId": 1599,
+      "droppedIds": [
+        1600
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "PL",
+      "documentId": "poland_driving_license",
+      "rows": 2,
+      "keptId": 313,
+      "droppedIds": [
+        320
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "PL",
+      "documentId": "poland_id_card_online",
+      "rows": 2,
+      "keptId": 1820,
+      "droppedIds": [
+        1822
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "PT",
+      "documentId": "portugal_visa",
+      "rows": 2,
+      "keptId": 1624,
+      "droppedIds": [
+        1626
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "RU",
+      "documentId": "russia_citizenship",
+      "rows": 2,
+      "keptId": 1647,
+      "droppedIds": [
+        1648
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "RU",
+      "documentId": "russia_pensioner_id",
+      "rows": 2,
+      "keptId": 1637,
+      "droppedIds": [
+        1638
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "RU",
+      "documentId": "russia_student_id",
+      "rows": 2,
+      "keptId": 1643,
+      "droppedIds": [
+        1644
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "SA",
+      "documentId": "saudi_arabia_e_visa_online",
+      "rows": 2,
+      "keptId": 1830,
+      "droppedIds": [
+        1831
+      ],
+      "conflict": false
+    },
+    {
+      "countryCode": "SR",
+      "documentId": "suriname_passport",
+      "rows": 2,
+      "keptId": 1697,
+      "droppedIds": [
+        1699
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "SY",
+      "documentId": "syrian_passport",
+      "rows": 2,
+      "keptId": 1170,
+      "droppedIds": [
+        1168
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "TN",
+      "documentId": "tunisia_passport",
+      "rows": 2,
+      "keptId": 1721,
+      "droppedIds": [
+        1185
+      ],
+      "conflict": true
+    },
+    {
+      "countryCode": "ZM",
+      "documentId": "zambia_visa",
+      "rows": 2,
+      "keptId": 1750,
+      "droppedIds": [
+        1242
+      ],
+      "conflict": true
+    }
+  ],
+  "conflictsDetail": [
+    {
+      "countryCode": "AE",
+      "documentId": "uae_id_card",
+      "kept": {
+        "width": 40,
+        "height": 60,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1734,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "AF",
+      "documentId": "afghanistan_passport",
+      "kept": {
+        "width": 40,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1760,
+          "width": 50,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "AF",
+      "documentId": "afghanistan_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1003,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "BD",
+      "documentId": "bangladesh_passport",
+      "kept": {
+        "width": 40,
+        "height": 50,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1290,
+          "width": 45,
+          "height": 55,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1292,
+          "width": 25,
+          "height": 30,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "BD",
+      "documentId": "bangladesh_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1296,
+          "width": 37,
+          "height": 37,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "BJ",
+      "documentId": "benin_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1014,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "CL",
+      "documentId": "chile_visa",
+      "kept": {
+        "width": 20,
+        "height": 30,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1764,
+          "width": 50,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "CM",
+      "documentId": "cameroon_passport",
+      "kept": {
+        "width": 40,
+        "height": 40,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1335,
+          "width": 40,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1336,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1020,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "CM",
+      "documentId": "cameroon_visa",
+      "kept": {
+        "width": 40,
+        "height": 40,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1021,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "CR",
+      "documentId": "costa_rica_id_card",
+      "kept": {
+        "width": 40,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1361,
+          "width": 30,
+          "height": 35,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "CY",
+      "documentId": "cyprus_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1038,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "CZ",
+      "documentId": "czech_republic_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1765,
+          "width": 50,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "GE",
+      "documentId": "georgia_e_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1051,
+          "width": 40,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "GY",
+      "documentId": "guyana_passport",
+      "kept": {
+        "width": 26,
+        "height": 32,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1432,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "ID",
+      "documentId": "indonesia_visa",
+      "kept": {
+        "width": 40,
+        "height": 60,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1452,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        },
+        {
+          "id": 1864,
+          "width": 40,
+          "height": 60,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "IL",
+      "documentId": "israel_passport",
+      "kept": {
+        "width": 50,
+        "height": 50,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1458,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "IL",
+      "documentId": "israel_visa",
+      "kept": {
+        "width": 55,
+        "height": 55,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1459,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "IQ",
+      "documentId": "iraq_passport",
+      "kept": {
+        "width": 50,
+        "height": 50,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1453,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "JO",
+      "documentId": "jordan_id_card",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1094,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "JO",
+      "documentId": "jordan_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1093,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "JP",
+      "documentId": "japan_resume",
+      "kept": {
+        "width": 40,
+        "height": 60,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1475,
+          "width": 30,
+          "height": 40,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "KH",
+      "documentId": "cambodia_visa",
+      "kept": {
+        "width": 40,
+        "height": 60,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1019,
+          "width": 40,
+          "height": 60,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1333,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "KW",
+      "documentId": "kuwait_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1102,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "LB",
+      "documentId": "lebanon_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1500,
+          "width": 35,
+          "height": 43,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "MG",
+      "documentId": "madagascar_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1518,
+          "width": 40,
+          "height": 40,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1768,
+          "width": 50,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1119,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "MM",
+      "documentId": "myanmar_burma_visa",
+      "kept": {
+        "width": 38,
+        "height": 46,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1125,
+          "width": 38,
+          "height": 48,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "MT",
+      "documentId": "malta_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1533,
+          "width": 30,
+          "height": 40,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "MY",
+      "documentId": "malaysia_marriage_registration",
+      "kept": {
+        "width": 32,
+        "height": 38,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1868,
+          "width": 35,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "NA",
+      "documentId": "namibia_passport",
+      "kept": {
+        "width": 37,
+        "height": 52,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1128,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "PA",
+      "documentId": "panama_passport",
+      "kept": {
+        "width": 45,
+        "height": 50,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1598,
+          "width": 35,
+          "height": 45,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        },
+        {
+          "id": 1145,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "PA",
+      "documentId": "panama_seaman_s_book",
+      "kept": {
+        "width": 30,
+        "height": 30,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1600,
+          "width": 40,
+          "height": 40,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "PT",
+      "documentId": "portugal_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1626,
+          "width": 30,
+          "height": 40,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "RU",
+      "documentId": "russia_citizenship",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1648,
+          "width": 30,
+          "height": 40,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "RU",
+      "documentId": "russia_pensioner_id",
+      "kept": {
+        "width": 30,
+        "height": 40,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1638,
+          "width": 21,
+          "height": 30,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "RU",
+      "documentId": "russia_student_id",
+      "kept": {
+        "width": 30,
+        "height": 40,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1644,
+          "width": 25,
+          "height": 35,
+          "unit": "mm",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "SR",
+      "documentId": "suriname_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1699,
+          "width": 35,
+          "height": 50,
+          "unit": "mm",
+          "backgroundColor": "#eeeeee"
+        }
+      ]
+    },
+    {
+      "countryCode": "SY",
+      "documentId": "syrian_passport",
+      "kept": {
+        "width": 40,
+        "height": 60,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1168,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "TN",
+      "documentId": "tunisia_passport",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1185,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    },
+    {
+      "countryCode": "ZM",
+      "documentId": "zambia_visa",
+      "kept": {
+        "width": 35,
+        "height": 45,
+        "unit": "mm"
+      },
+      "alternatives": [
+        {
+          "id": 1242,
+          "width": 2,
+          "height": 2,
+          "unit": "in",
+          "backgroundColor": "#ffffff"
+        }
+      ]
+    }
+  ]
+}

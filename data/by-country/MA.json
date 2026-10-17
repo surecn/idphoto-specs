@@ -1,0 +1,62 @@
+[
+  {
+    "id": 415,
+    "countryCode": "MA",
+    "country": "morocco",
+    "countryName": "Morocco",
+    "documentType": "id_card",
+    "documentId": "morocco_national_id_card",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 416,
+    "countryCode": "MA",
+    "country": "morocco",
+    "countryName": "Morocco",
+    "documentType": "id_card",
+    "documentId": "morocco_residence",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 417,
+    "countryCode": "MA",
+    "country": "morocco",
+    "countryName": "Morocco",
+    "documentType": "passport",
+    "documentId": "morocco_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 418,
+    "countryCode": "MA",
+    "country": "morocco",
+    "countryName": "Morocco",
+    "documentType": "visa",
+    "documentId": "morocco_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

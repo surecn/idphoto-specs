@@ -1,0 +1,47 @@
+[
+  {
+    "id": 167,
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "countryName": "Djibouti",
+    "documentType": "id_card",
+    "documentId": "djibouti_id_card",
+    "width": 35,
+    "height": 35,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 35
+  },
+  {
+    "id": 168,
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "countryName": "Djibouti",
+    "documentType": "passport",
+    "documentId": "djibouti_passport",
+    "width": 35,
+    "height": 35,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 35
+  },
+  {
+    "id": 169,
+    "countryCode": "DJ",
+    "country": "Djibouti",
+    "countryName": "Djibouti",
+    "documentType": "visa",
+    "documentId": "djibouti_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

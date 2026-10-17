@@ -1,0 +1,17 @@
+[
+  {
+    "id": 419,
+    "countryCode": "MZ",
+    "country": "mozambique",
+    "countryName": "Mozambique",
+    "documentType": "visa",
+    "documentId": "mozambique_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

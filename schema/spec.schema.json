@@ -1,0 +1,151 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://raw.githubusercontent.com/idphotowork/specs/main/schema/spec.schema.json",
+  "title": "Document photo specification",
+  "description": "One record describes the photo requirements for a single document (passport, visa, ID card, licence or other photo ID). All physical measurements are in millimetres.",
+  "type": "object",
+  "required": [
+    "id",
+    "countryCode",
+    "country",
+    "countryName",
+    "documentType",
+    "documentId",
+    "width",
+    "height",
+    "unit",
+    "dpi",
+    "backgroundColor"
+  ],
+  "properties": {
+    "id": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Stable record id within this dataset."
+    },
+    "countryCode": {
+      "type": "string",
+      "pattern": "^[A-Z]{2}$",
+      "description": "ISO 3166-1 alpha-2 code, uppercase. Non-country entries use the closest administrative code (HK, MO, PS) or EU."
+    },
+    "country": {
+      "type": "string",
+      "description": "Lowercase slug used by the source system, e.g. united_states."
+    },
+    "countryName": {
+      "type": "string",
+      "description": "Human-readable country or territory name."
+    },
+    "documentType": {
+      "type": "string",
+      "enum": ["passport", "visa", "driving_licence", "id_card", "other"],
+      "description": "Coarse category of the document."
+    },
+    "documentId": {
+      "type": "string",
+      "description": "Stable document identifier from the source system, e.g. us_passport. Unique together with countryCode."
+    },
+    "width": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Photo width expressed in the unit given by `unit`."
+    },
+    "height": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Photo height expressed in the unit given by `unit`."
+    },
+    "unit": {
+      "type": "string",
+      "enum": ["mm", "in", "px"],
+      "description": "Unit for width and height. Physical print sizes must not be mixed with pixel sizes."
+    },
+    "widthMm": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Width in millimetres. Present for mm and inch records; omitted for pixel-only records."
+    },
+    "heightMm": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Height in millimetres. Present for mm and inch records; omitted for pixel-only records."
+    },
+    "pixelWidth": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Pixel width of the digital variant, when the same document also has a pixel specification."
+    },
+    "pixelHeight": {
+      "type": "integer",
+      "minimum": 1,
+      "description": "Pixel height of the digital variant."
+    },
+    "dpi": {
+      "type": "integer",
+      "minimum": 72,
+      "maximum": 2400,
+      "description": "Resolution the specification is written for. 300 is the common print default, 600 is used by several European authorities."
+    },
+    "backgroundColor": {
+      "type": "string",
+      "pattern": "^#[0-9a-f]{6}$",
+      "description": "Required background colour as a lowercase hex RGB value, e.g. #ffffff for white."
+    },
+    "headMinMm": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Minimum chin-to-crown height in millimetres. Omitted when the requirement is not verified."
+    },
+    "headMaxMm": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Maximum chin-to-crown height in millimetres."
+    },
+    "eyeLineMinMm": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Minimum distance from the bottom edge of the photo to the eye line, in millimetres."
+    },
+    "eyeLineMaxMm": {
+      "type": "number",
+      "exclusiveMinimum": 0,
+      "description": "Maximum distance from the bottom edge of the photo to the eye line, in millimetres."
+    },
+    "glassesAllowed": {
+      "type": "boolean",
+      "description": "Whether glasses may be worn in the photo. Omitted when the rule is not verified for this document."
+    },
+    "expressionStrict": {
+      "type": "boolean",
+      "description": "True when the neutral-expression rule is a hard legal requirement, false when it is only a preference (for example the US passport)."
+    },
+    "expression": {
+      "type": "string",
+      "description": "Free-text expression guidance taken from the issuing authority."
+    },
+    "recencyMonths": {
+      "type": "integer",
+      "minimum": 1,
+      "maximum": 120,
+      "description": "Maximum age of the photo in months. 6 is the common rule, 1 is used by some authorities."
+    },
+    "guide": {
+      "type": "string",
+      "format": "uri",
+      "description": "Link to the illustrated requirements guide for this country on idphotowork.com."
+    },
+    "source": {
+      "type": "string",
+      "format": "uri",
+      "description": "Source used to justify a correction or to confirm a value: an official publication, or the country guide that cites one."
+    },
+    "needsReview": {
+      "type": "boolean",
+      "description": "True when the size is disputed between sources or has not been confirmed. Treat these records as provisional."
+    },
+    "reviewNote": {
+      "type": "string",
+      "description": "Why the record is flagged for review."
+    }
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 51,
+    "countryCode": "BB",
+    "country": "barbados",
+    "countryName": "Barbados",
+    "documentType": "passport",
+    "documentId": "barbados_passport",
+    "width": 50,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 50
+  },
+  {
+    "id": 52,
+    "countryCode": "BB",
+    "country": "barbados",
+    "countryName": "Barbados",
+    "documentType": "visa",
+    "documentId": "barbados_visa",
+    "width": 50,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 50
+  }
+]

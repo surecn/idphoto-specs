@@ -1,0 +1,47 @@
+[
+  {
+    "id": 476,
+    "countryCode": "PS",
+    "country": "palestinian_territories",
+    "countryName": "Palestinian Territories",
+    "documentType": "id_card",
+    "documentId": "palestine_id_card_blue_background",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#3dabf8",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 477,
+    "countryCode": "PS",
+    "country": "palestinian_territories",
+    "countryName": "Palestinian Territories",
+    "documentType": "passport",
+    "documentId": "palestine_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#3dabf8",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 478,
+    "countryCode": "PS",
+    "country": "palestinian_territories",
+    "countryName": "Palestinian Territories",
+    "documentType": "visa",
+    "documentId": "palestine_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  }
+]

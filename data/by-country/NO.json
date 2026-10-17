@@ -1,0 +1,40 @@
+[
+  {
+    "id": 458,
+    "countryCode": "NO",
+    "country": "norway",
+    "countryName": "Norway",
+    "documentType": "passport",
+    "documentId": "norway_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "headMinMm": 32,
+    "headMaxMm": 36,
+    "expressionStrict": true,
+    "expression": "neutral, mouth closed, eyes open"
+  },
+  {
+    "id": 459,
+    "countryCode": "NO",
+    "country": "norway",
+    "countryName": "Norway",
+    "documentType": "visa",
+    "documentId": "norway_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "headMinMm": 32,
+    "headMaxMm": 36,
+    "expressionStrict": true,
+    "expression": "neutral, mouth closed, eyes open"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 12,
+    "countryCode": "AO",
+    "country": "angola",
+    "countryName": "Angola",
+    "documentType": "visa",
+    "documentId": "angola_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 13,
+    "countryCode": "AO",
+    "country": "angola",
+    "countryName": "Angola",
+    "documentType": "visa",
+    "documentId": "angola_visa_online",
+    "width": 381,
+    "height": 496,
+    "unit": "px",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "pixelWidth": 381,
+    "pixelHeight": 496
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 134,
+    "countryCode": "KM",
+    "country": "comoros",
+    "countryName": "Comoros",
+    "documentType": "id_card",
+    "documentId": "comoros_id_card",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 135,
+    "countryCode": "KM",
+    "country": "comoros",
+    "countryName": "Comoros",
+    "documentType": "visa",
+    "documentId": "comoros_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  }
+]

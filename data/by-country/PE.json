@@ -1,0 +1,47 @@
+[
+  {
+    "id": 486,
+    "countryCode": "PE",
+    "country": "peru",
+    "countryName": "Peru",
+    "documentType": "driving_licence",
+    "documentId": "peru_driving_license",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 487,
+    "countryCode": "PE",
+    "country": "peru",
+    "countryName": "Peru",
+    "documentType": "id_card",
+    "documentId": "peru_id_card",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 488,
+    "countryCode": "PE",
+    "country": "peru",
+    "countryName": "Peru",
+    "documentType": "visa",
+    "documentId": "peru_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

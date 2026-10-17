@@ -1,0 +1,32 @@
+[
+  {
+    "id": 384,
+    "countryCode": "MW",
+    "country": "malawi",
+    "countryName": "Malawi",
+    "documentType": "passport",
+    "documentId": "malawi_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 385,
+    "countryCode": "MW",
+    "country": "malawi",
+    "countryName": "Malawi",
+    "documentType": "visa",
+    "documentId": "malawi_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

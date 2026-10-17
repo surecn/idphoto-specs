@@ -1,0 +1,47 @@
+[
+  {
+    "id": 64,
+    "countryCode": "BZ",
+    "country": "belize",
+    "countryName": "Belize",
+    "documentType": "passport",
+    "documentId": "belize_passport",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 65,
+    "countryCode": "BZ",
+    "country": "belize",
+    "countryName": "Belize",
+    "documentType": "visa",
+    "documentId": "belize_residence",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 66,
+    "countryCode": "BZ",
+    "country": "belize",
+    "countryName": "Belize",
+    "documentType": "visa",
+    "documentId": "belize_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  }
+]

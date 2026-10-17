@@ -1,0 +1,47 @@
+[
+  {
+    "id": 406,
+    "countryCode": "MD",
+    "country": "moldova",
+    "countryName": "Moldova",
+    "documentType": "id_card",
+    "documentId": "moldova_id_card_buletin_de_identitate",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 407,
+    "countryCode": "MD",
+    "country": "moldova",
+    "countryName": "Moldova",
+    "documentType": "id_card",
+    "documentId": "moldova_work_and_residence_permit",
+    "width": 50,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 50,
+    "heightMm": 60
+  },
+  {
+    "id": 408,
+    "countryCode": "MD",
+    "country": "moldova",
+    "countryName": "Moldova",
+    "documentType": "visa",
+    "documentId": "moldova_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

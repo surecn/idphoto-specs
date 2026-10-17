@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Document Photo Specs: passport, visa and ID photo requirements for 164 countries"
+type: dataset
+version: 1.0.0
+date-released: 2026-10-17
+license: CC-BY-4.0
+url: "https://github.com/idphotowork/specs"
+repository-code: "https://github.com/idphotowork/specs"
+keywords:
+  - passport photo
+  - id photo
+  - visa photo
+  - biometric photo
+  - document specifications
+  - dataset
+authors:
+  - name: "IDPhotoWork"
+    website: "https://www.idphotowork.com/"

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 171,
+    "countryCode": "DO",
+    "country": "dominican_republic",
+    "countryName": "Dominican Republic",
+    "documentType": "passport",
+    "documentId": "dominican_republic_passport",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 800,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 172,
+    "countryCode": "DO",
+    "country": "dominican_republic",
+    "countryName": "Dominican Republic",
+    "documentType": "visa",
+    "documentId": "dominican_republic_visa",
+    "width": 40,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 50
+  }
+]

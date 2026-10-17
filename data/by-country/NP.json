@@ -1,0 +1,62 @@
+[
+  {
+    "id": 428,
+    "countryCode": "NP",
+    "country": "nepal",
+    "countryName": "Nepal",
+    "documentType": "id_card",
+    "documentId": "nepal_nrn_id_card",
+    "width": 25,
+    "height": 30,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 25,
+    "heightMm": 30
+  },
+  {
+    "id": 429,
+    "countryCode": "NP",
+    "country": "nepal",
+    "countryName": "Nepal",
+    "documentType": "passport",
+    "documentId": "nepal_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 430,
+    "countryCode": "NP",
+    "country": "nepal",
+    "countryName": "Nepal",
+    "documentType": "visa",
+    "documentId": "nepal_online_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 431,
+    "countryCode": "NP",
+    "country": "nepal",
+    "countryName": "Nepal",
+    "documentType": "visa",
+    "documentId": "nepal_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

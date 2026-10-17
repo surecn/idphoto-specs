@@ -1,0 +1,33 @@
+[
+  {
+    "id": 113,
+    "countryCode": "CL",
+    "country": "chile",
+    "countryName": "Chile",
+    "documentType": "passport",
+    "documentId": "chile_passport",
+    "width": 45,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 45,
+    "heightMm": 45
+  },
+  {
+    "id": 114,
+    "countryCode": "CL",
+    "country": "chile",
+    "countryName": "Chile",
+    "documentType": "visa",
+    "documentId": "chile_visa",
+    "width": 20,
+    "height": 30,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 20,
+    "heightMm": 30,
+    "needsReview": true
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 309,
+    "countryCode": "JM",
+    "country": "jamaica",
+    "countryName": "Jamaica",
+    "documentType": "passport",
+    "documentId": "jamaica_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

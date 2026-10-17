@@ -1,0 +1,17 @@
+[
+  {
+    "id": "9001",
+    "country": "thailand",
+    "countryCode": "TH",
+    "type": "0",
+    "width": "35",
+    "height": "45",
+    "unit": "1",
+    "dpi": "600",
+    "bgcolor": "#ffffff",
+    "titleResName": "thailand_passport",
+    "headMinMm": "32",
+    "headMaxMm": "36",
+    "source": "https://www.idphotowork.com/thailand-passport-photo.html"
+  }
+]

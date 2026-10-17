@@ -1,0 +1,45 @@
+name: Spec correction
+description: Report a wrong or missing document photo specification
+labels: ["correction"]
+body:
+  - type: input
+    id: record
+    attributes:
+      label: Record
+      description: countryCode and documentId, as shown in data/specs.json
+      placeholder: JP / japan_passport
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: What the dataset says now
+      placeholder: headMinMm 32, headMaxMm 36
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: What it should say
+      placeholder: head 29-34 mm
+    validations:
+      required: true
+
+  - type: input
+    id: source
+    attributes:
+      label: Official source
+      description: Link to the issuing authority's page or PDF. Issues without a source cannot be actioned.
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: textarea
+    id: notes
+    attributes:
+      label: Notes
+      description: Anything else, such as a second source that disagrees.
+    validations:
+      required: false

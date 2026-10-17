@@ -1,0 +1,49 @@
+[
+  {
+    "id": 301,
+    "countryCode": "IL",
+    "country": "israel",
+    "countryName": "Israel",
+    "documentType": "id_card",
+    "documentId": "israel_id_card",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 302,
+    "countryCode": "IL",
+    "country": "israel",
+    "countryName": "Israel",
+    "documentType": "passport",
+    "documentId": "israel_passport",
+    "width": 50,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 50,
+    "needsReview": true
+  },
+  {
+    "id": 303,
+    "countryCode": "IL",
+    "country": "israel",
+    "countryName": "Israel",
+    "documentType": "visa",
+    "documentId": "israel_visa",
+    "width": 55,
+    "height": 55,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 55,
+    "heightMm": 55,
+    "needsReview": true
+  }
+]

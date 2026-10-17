@@ -1,0 +1,32 @@
+[
+  {
+    "id": 642,
+    "countryCode": "TM",
+    "country": "turkmenistan",
+    "countryName": "Turkmenistan",
+    "documentType": "passport",
+    "documentId": "turkmenistan_passport",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 643,
+    "countryCode": "TM",
+    "country": "turkmenistan",
+    "countryName": "Turkmenistan",
+    "documentType": "visa",
+    "documentId": "turkmenistan_visa",
+    "width": 50,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 60
+  }
+]

@@ -1,0 +1,48 @@
+[
+  {
+    "id": 601,
+    "countryCode": "SR",
+    "country": "suriname",
+    "countryName": "Suriname",
+    "documentType": "passport",
+    "documentId": "suriname_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "needsReview": true
+  },
+  {
+    "id": 602,
+    "countryCode": "SR",
+    "country": "suriname",
+    "countryName": "Suriname",
+    "documentType": "visa",
+    "documentId": "suriname_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 603,
+    "countryCode": "SR",
+    "country": "suriname",
+    "countryName": "Suriname",
+    "documentType": "visa",
+    "documentId": "suriname_visa_online",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

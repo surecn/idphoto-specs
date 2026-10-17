@@ -1,0 +1,51 @@
+[
+  {
+    "id": 370,
+    "countryCode": "LT",
+    "country": "lithuania",
+    "countryName": "Lithuania",
+    "documentType": "id_card",
+    "documentId": "lithuanian_id_card",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 371,
+    "countryCode": "LT",
+    "country": "lithuania",
+    "countryName": "Lithuania",
+    "documentType": "passport",
+    "documentId": "lithuania_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 372,
+    "countryCode": "LT",
+    "country": "lithuania",
+    "countryName": "Lithuania",
+    "documentType": "passport",
+    "documentId": "lithuanian_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "headMinMm": 32,
+    "headMaxMm": 36,
+    "expressionStrict": true,
+    "expression": "neutral, mouth closed, eyes open"
+  }
+]

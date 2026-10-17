@@ -1,0 +1,47 @@
+[
+  {
+    "id": 644,
+    "countryCode": "UG",
+    "country": "uganda",
+    "countryName": "Uganda",
+    "documentType": "passport",
+    "documentId": "uganda_passport",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 645,
+    "countryCode": "UG",
+    "country": "uganda",
+    "countryName": "Uganda",
+    "documentType": "visa",
+    "documentId": "eastern_africa_visa_photo",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 646,
+    "countryCode": "UG",
+    "country": "uganda",
+    "countryName": "Uganda",
+    "documentType": "visa",
+    "documentId": "uganda_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  }
+]

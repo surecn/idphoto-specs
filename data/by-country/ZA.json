@@ -1,0 +1,63 @@
+[
+  {
+    "id": 575,
+    "countryCode": "ZA",
+    "country": "south_africa",
+    "countryName": "South Africa",
+    "documentType": "driving_licence",
+    "documentId": "south_africa_driving_licence",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 576,
+    "countryCode": "ZA",
+    "country": "south_africa",
+    "countryName": "South Africa",
+    "documentType": "id_card",
+    "documentId": "south_africa_smart_id_card",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 577,
+    "countryCode": "ZA",
+    "country": "south_africa",
+    "countryName": "South Africa",
+    "documentType": "passport",
+    "documentId": "south_africa_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "guide": "https://www.idphotowork.com/south-africa-passport-photo.html"
+  },
+  {
+    "id": 578,
+    "countryCode": "ZA",
+    "country": "south_africa",
+    "countryName": "South Africa",
+    "documentType": "visa",
+    "documentId": "south_africa_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

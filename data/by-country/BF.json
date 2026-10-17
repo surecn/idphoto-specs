@@ -1,0 +1,32 @@
+[
+  {
+    "id": 95,
+    "countryCode": "BF",
+    "country": "burkina_faso",
+    "countryName": "Burkina Faso",
+    "documentType": "passport",
+    "documentId": "burkina_faso_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 96,
+    "countryCode": "BF",
+    "country": "burkina_faso",
+    "countryName": "Burkina Faso",
+    "documentType": "visa",
+    "documentId": "burkina_faso_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

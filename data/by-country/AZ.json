@@ -1,0 +1,32 @@
+[
+  {
+    "id": 37,
+    "countryCode": "AZ",
+    "country": "azerbaijan",
+    "countryName": "Azerbaijan",
+    "documentType": "id_card",
+    "documentId": "azerbaijan_id_card",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#cdeffb",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 38,
+    "countryCode": "AZ",
+    "country": "azerbaijan",
+    "countryName": "Azerbaijan",
+    "documentType": "visa",
+    "documentId": "azerbaijan_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  }
+]

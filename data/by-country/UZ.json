@@ -1,0 +1,47 @@
+[
+  {
+    "id": 708,
+    "countryCode": "UZ",
+    "country": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "documentType": "id_card",
+    "documentId": "uzbekistan_citizenship",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 709,
+    "countryCode": "UZ",
+    "country": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "documentType": "passport",
+    "documentId": "uzbekistan_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 710,
+    "countryCode": "UZ",
+    "country": "uzbekistan",
+    "countryName": "Uzbekistan",
+    "documentType": "visa",
+    "documentId": "uzbekistan_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

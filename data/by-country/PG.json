@@ -1,0 +1,32 @@
+[
+  {
+    "id": 482,
+    "countryCode": "PG",
+    "country": "papua_new_guinea",
+    "countryName": "Papua New Guinea",
+    "documentType": "id_card",
+    "documentId": "papua_new_guinea_citizenship",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 483,
+    "countryCode": "PG",
+    "country": "papua_new_guinea",
+    "countryName": "Papua New Guinea",
+    "documentType": "passport",
+    "documentId": "papua_new_guinea_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

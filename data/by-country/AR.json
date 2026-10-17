@@ -1,0 +1,48 @@
+[
+  {
+    "id": 14,
+    "countryCode": "AR",
+    "country": "argentina",
+    "countryName": "Argentina",
+    "documentType": "id_card",
+    "documentId": "argentina_dni",
+    "width": 40,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 40
+  },
+  {
+    "id": 15,
+    "countryCode": "AR",
+    "country": "argentina",
+    "countryName": "Argentina",
+    "documentType": "passport",
+    "documentId": "argentina_passport",
+    "width": 40,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 40,
+    "guide": "https://www.idphotowork.com/argentina-passport-photo.html"
+  },
+  {
+    "id": 16,
+    "countryCode": "AR",
+    "country": "argentina",
+    "countryName": "Argentina",
+    "documentType": "visa",
+    "documentId": "argentina_visa",
+    "width": 40,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 40
+  }
+]

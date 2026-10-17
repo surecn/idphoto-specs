@@ -1,0 +1,49 @@
+[
+  {
+    "id": 1,
+    "countryCode": "AF",
+    "country": "afghanistan",
+    "countryName": "Afghanistan",
+    "documentType": "id_card",
+    "documentId": "afghanistan_id_card_e_tazkira",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  },
+  {
+    "id": 2,
+    "countryCode": "AF",
+    "country": "afghanistan",
+    "countryName": "Afghanistan",
+    "documentType": "passport",
+    "documentId": "afghanistan_passport",
+    "width": 40,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 45,
+    "needsReview": true
+  },
+  {
+    "id": 3,
+    "countryCode": "AF",
+    "country": "afghanistan",
+    "countryName": "Afghanistan",
+    "documentType": "visa",
+    "documentId": "afghanistan_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45,
+    "needsReview": true
+  }
+]

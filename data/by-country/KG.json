@@ -1,0 +1,32 @@
+[
+  {
+    "id": 346,
+    "countryCode": "KG",
+    "country": "kyrgyzstan",
+    "countryName": "Kyrgyzstan",
+    "documentType": "passport",
+    "documentId": "kyrgyzstan_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 347,
+    "countryCode": "KG",
+    "country": "kyrgyzstan",
+    "countryName": "Kyrgyzstan",
+    "documentType": "visa",
+    "documentId": "kyrgyzstan_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

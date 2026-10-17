@@ -1,0 +1,17 @@
+[
+  {
+    "id": 139,
+    "countryCode": "CI",
+    "country": "ivory_coast",
+    "countryName": "Cote d'Ivoire",
+    "documentType": "visa",
+    "documentId": "cote_d_ivoire_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

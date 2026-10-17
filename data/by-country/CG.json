@@ -1,0 +1,17 @@
+[
+  {
+    "id": 516,
+    "countryCode": "CG",
+    "country": "congo_republic",
+    "countryName": "Republic of the Congo",
+    "documentType": "passport",
+    "documentId": "congo_brazzaville_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

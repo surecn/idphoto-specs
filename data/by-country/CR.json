@@ -1,0 +1,48 @@
+[
+  {
+    "id": 136,
+    "countryCode": "CR",
+    "country": "costa_rica",
+    "countryName": "Costa Rica",
+    "documentType": "id_card",
+    "documentId": "costa_rica_id_card",
+    "width": 40,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 45,
+    "needsReview": true
+  },
+  {
+    "id": 137,
+    "countryCode": "CR",
+    "country": "costa_rica",
+    "countryName": "Costa Rica",
+    "documentType": "passport",
+    "documentId": "costa_rica_passport",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 138,
+    "countryCode": "CR",
+    "country": "costa_rica",
+    "countryName": "Costa Rica",
+    "documentType": "visa",
+    "documentId": "costa_rica_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  }
+]

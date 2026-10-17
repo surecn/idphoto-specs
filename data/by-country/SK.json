@@ -1,0 +1,51 @@
+[
+  {
+    "id": 565,
+    "countryCode": "SK",
+    "country": "slovakia",
+    "countryName": "Slovakia",
+    "documentType": "driving_licence",
+    "documentId": "slovakia_driving_license",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "headMinMm": 32,
+    "headMaxMm": 36,
+    "expressionStrict": true,
+    "expression": "neutral, mouth closed, eyes open"
+  },
+  {
+    "id": 566,
+    "countryCode": "SK",
+    "country": "slovakia",
+    "countryName": "Slovakia",
+    "documentType": "id_card",
+    "documentId": "slovakia_id_card",
+    "width": 30,
+    "height": 35,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 30,
+    "heightMm": 35
+  },
+  {
+    "id": 567,
+    "countryCode": "SK",
+    "country": "slovakia",
+    "countryName": "Slovakia",
+    "documentType": "visa",
+    "documentId": "slovakia_visa",
+    "width": 30,
+    "height": 35,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 30,
+    "heightMm": 35
+  }
+]

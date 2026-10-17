@@ -1,0 +1,32 @@
+[
+  {
+    "id": 573,
+    "countryCode": "SO",
+    "country": "somalia",
+    "countryName": "Somalia",
+    "documentType": "id_card",
+    "documentId": "somalia_id_card",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#dddddd",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 574,
+    "countryCode": "SO",
+    "country": "somalia",
+    "countryName": "Somalia",
+    "documentType": "visa",
+    "documentId": "somalia_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

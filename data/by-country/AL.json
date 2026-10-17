@@ -1,0 +1,47 @@
+[
+  {
+    "id": 4,
+    "countryCode": "AL",
+    "country": "albania",
+    "countryName": "Albania",
+    "documentType": "driving_licence",
+    "documentId": "albania_driving_licence",
+    "width": 40,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 50
+  },
+  {
+    "id": 5,
+    "countryCode": "AL",
+    "country": "albania",
+    "countryName": "Albania",
+    "documentType": "visa",
+    "documentId": "albania_e_visa",
+    "width": 40,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 50
+  },
+  {
+    "id": 6,
+    "countryCode": "AL",
+    "country": "albania",
+    "countryName": "Albania",
+    "documentType": "visa",
+    "documentId": "albania_visa",
+    "width": 36,
+    "height": 47,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 36,
+    "heightMm": 47
+  }
+]

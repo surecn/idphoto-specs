@@ -1,0 +1,17 @@
+[
+  {
+    "id": 170,
+    "countryCode": "DM",
+    "country": "dominica",
+    "countryName": "Dominica",
+    "documentType": "passport",
+    "documentId": "dominica_passport",
+    "width": 38,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 38,
+    "heightMm": 45
+  }
+]

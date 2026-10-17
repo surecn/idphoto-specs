@@ -1,0 +1,49 @@
+[
+  {
+    "id": 479,
+    "countryCode": "PA",
+    "country": "panama",
+    "countryName": "Panama",
+    "documentType": "other",
+    "documentId": "panama_seaman_s_book",
+    "width": 30,
+    "height": 30,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 30,
+    "needsReview": true
+  },
+  {
+    "id": 480,
+    "countryCode": "PA",
+    "country": "panama",
+    "countryName": "Panama",
+    "documentType": "passport",
+    "documentId": "panama_passport",
+    "width": 45,
+    "height": 50,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 45,
+    "heightMm": 50,
+    "needsReview": true
+  },
+  {
+    "id": 481,
+    "countryCode": "PA",
+    "country": "panama",
+    "countryName": "Panama",
+    "documentType": "visa",
+    "documentId": "panama_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  }
+]

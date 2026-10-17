@@ -1,0 +1,47 @@
+[
+  {
+    "id": 362,
+    "countryCode": "LY",
+    "country": "libya",
+    "countryName": "Libya",
+    "documentType": "id_card",
+    "documentId": "libya_id_card",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#dddddd",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 363,
+    "countryCode": "LY",
+    "country": "libya",
+    "countryName": "Libya",
+    "documentType": "passport",
+    "documentId": "libya_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#dddddd",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 364,
+    "countryCode": "LY",
+    "country": "libya",
+    "countryName": "Libya",
+    "documentType": "visa",
+    "documentId": "libya_visa",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#dddddd",
+    "widthMm": 40,
+    "heightMm": 60
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "id": 555,
+    "countryCode": "SC",
+    "country": "seychelles",
+    "countryName": "Seychelles",
+    "documentType": "passport",
+    "documentId": "seychelles_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

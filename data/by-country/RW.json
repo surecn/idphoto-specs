@@ -1,0 +1,32 @@
+[
+  {
+    "id": 541,
+    "countryCode": "RW",
+    "country": "rwanda",
+    "countryName": "Rwanda",
+    "documentType": "visa",
+    "documentId": "eastern_africa_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 542,
+    "countryCode": "RW",
+    "country": "rwanda",
+    "countryName": "Rwanda",
+    "documentType": "visa",
+    "documentId": "rwanda_east_africa_tourist_visa_online",
+    "width": 500,
+    "height": 500,
+    "unit": "px",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "pixelWidth": 500,
+    "pixelHeight": 500
+  }
+]

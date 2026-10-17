@@ -1,0 +1,32 @@
+[
+  {
+    "id": 544,
+    "countryCode": "WS",
+    "country": "samoa",
+    "countryName": "Samoa",
+    "documentType": "passport",
+    "documentId": "samoa_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 545,
+    "countryCode": "WS",
+    "country": "samoa",
+    "countryName": "Samoa",
+    "documentType": "visa",
+    "documentId": "samoa_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

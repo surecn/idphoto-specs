@@ -1,0 +1,32 @@
+[
+  {
+    "id": 617,
+    "countryCode": "TJ",
+    "country": "tajikistan",
+    "countryName": "Tajikistan",
+    "documentType": "passport",
+    "documentId": "tajikistan_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 618,
+    "countryCode": "TJ",
+    "country": "tajikistan",
+    "countryName": "Tajikistan",
+    "documentType": "visa",
+    "documentId": "tajikistan_e_visa",
+    "width": 50,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50,
+    "heightMm": 60
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 67,
+    "countryCode": "BJ",
+    "country": "benin",
+    "countryName": "Benin",
+    "documentType": "passport",
+    "documentId": "benin_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45,
+    "needsReview": true
+  },
+  {
+    "id": 68,
+    "countryCode": "BJ",
+    "country": "benin",
+    "countryName": "Benin",
+    "documentType": "visa",
+    "documentId": "benin_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

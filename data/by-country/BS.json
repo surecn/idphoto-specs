@@ -1,0 +1,34 @@
+[
+  {
+    "id": 39,
+    "countryCode": "BS",
+    "country": "bahamas",
+    "countryName": "Bahamas",
+    "documentType": "passport",
+    "documentId": "bahamas_passport",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8,
+    "pixelWidth": 480,
+    "pixelHeight": 640
+  },
+  {
+    "id": 40,
+    "countryCode": "BS",
+    "country": "bahamas",
+    "countryName": "Bahamas",
+    "documentType": "visa",
+    "documentId": "bahamas_visa",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  }
+]

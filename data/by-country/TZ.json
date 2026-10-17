@@ -1,0 +1,47 @@
+[
+  {
+    "id": 619,
+    "countryCode": "TZ",
+    "country": "tanzania",
+    "countryName": "Tanzania",
+    "documentType": "other",
+    "documentId": "tanzania_azania_bank",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#309eff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 620,
+    "countryCode": "TZ",
+    "country": "tanzania",
+    "countryName": "Tanzania",
+    "documentType": "passport",
+    "documentId": "tanzania_passport",
+    "width": 40,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 45
+  },
+  {
+    "id": 621,
+    "countryCode": "TZ",
+    "country": "tanzania",
+    "countryName": "Tanzania",
+    "documentType": "visa",
+    "documentId": "tanzania_visa",
+    "width": 40,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 45
+  }
+]

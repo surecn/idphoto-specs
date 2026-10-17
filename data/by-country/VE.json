@@ -1,0 +1,32 @@
+[
+  {
+    "id": 711,
+    "countryCode": "VE",
+    "country": "venezuela",
+    "countryName": "Venezuela",
+    "documentType": "driving_licence",
+    "documentId": "venezuela_driving_licence",
+    "width": 336,
+    "height": 448,
+    "unit": "px",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "pixelWidth": 336,
+    "pixelHeight": 448
+  },
+  {
+    "id": 712,
+    "countryCode": "VE",
+    "country": "venezuela",
+    "countryName": "Venezuela",
+    "documentType": "visa",
+    "documentId": "venezuela_visa",
+    "width": 30,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 30,
+    "heightMm": 40
+  }
+]

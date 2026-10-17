@@ -1,0 +1,32 @@
+[
+  {
+    "id": 630,
+    "countryCode": "TG",
+    "country": "togo",
+    "countryName": "Togo",
+    "documentType": "passport",
+    "documentId": "togo_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  },
+  {
+    "id": 631,
+    "countryCode": "TG",
+    "country": "togo",
+    "countryName": "Togo",
+    "documentType": "visa",
+    "documentId": "togo_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

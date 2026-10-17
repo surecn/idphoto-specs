@@ -1,0 +1,17 @@
+[
+  {
+    "id": 393,
+    "countryCode": "MV",
+    "country": "maldives",
+    "countryName": "Maldives",
+    "documentType": "passport",
+    "documentId": "maldives_passport",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45
+  }
+]

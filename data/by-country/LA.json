@@ -1,0 +1,32 @@
+[
+  {
+    "id": 348,
+    "countryCode": "LA",
+    "country": "laos",
+    "countryName": "Laos",
+    "documentType": "passport",
+    "documentId": "laos_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  },
+  {
+    "id": 349,
+    "countryCode": "LA",
+    "country": "laos",
+    "countryName": "Laos",
+    "documentType": "visa",
+    "documentId": "laos_visa",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  }
+]

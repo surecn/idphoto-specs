@@ -1,0 +1,48 @@
+[
+  {
+    "id": 381,
+    "countryCode": "MG",
+    "country": "madagascar",
+    "countryName": "Madagascar",
+    "documentType": "id_card",
+    "documentId": "madagascar_id_card",
+    "width": 40,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 40
+  },
+  {
+    "id": 382,
+    "countryCode": "MG",
+    "country": "madagascar",
+    "countryName": "Madagascar",
+    "documentType": "passport",
+    "documentId": "madagascar_passport",
+    "width": 40,
+    "height": 40,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 40
+  },
+  {
+    "id": 383,
+    "countryCode": "MG",
+    "country": "madagascar",
+    "countryName": "Madagascar",
+    "documentType": "visa",
+    "documentId": "madagascar_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#ffffff",
+    "widthMm": 35,
+    "heightMm": 45,
+    "needsReview": true
+  }
+]

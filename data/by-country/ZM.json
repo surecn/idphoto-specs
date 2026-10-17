@@ -1,0 +1,33 @@
+[
+  {
+    "id": 721,
+    "countryCode": "ZM",
+    "country": "zambia",
+    "countryName": "Zambia",
+    "documentType": "passport",
+    "documentId": "zambia_passport",
+    "width": 2,
+    "height": 2,
+    "unit": "in",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 50.8,
+    "heightMm": 50.8
+  },
+  {
+    "id": 722,
+    "countryCode": "ZM",
+    "country": "zambia",
+    "countryName": "Zambia",
+    "documentType": "visa",
+    "documentId": "zambia_visa",
+    "width": 35,
+    "height": 45,
+    "unit": "mm",
+    "dpi": 600,
+    "backgroundColor": "#eeeeee",
+    "widthMm": 35,
+    "heightMm": 45,
+    "needsReview": true
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "id": 174,
+    "countryCode": "EG",
+    "country": "egypt",
+    "countryName": "Egypt",
+    "documentType": "passport",
+    "documentId": "egypt_passport",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60,
+    "guide": "https://www.idphotowork.com/egypt-passport-photo.html"
+  },
+  {
+    "id": 175,
+    "countryCode": "EG",
+    "country": "egypt",
+    "countryName": "Egypt",
+    "documentType": "visa",
+    "documentId": "egypt_visa",
+    "width": 40,
+    "height": 60,
+    "unit": "mm",
+    "dpi": 300,
+    "backgroundColor": "#ffffff",
+    "widthMm": 40,
+    "heightMm": 60
+  }
+]
