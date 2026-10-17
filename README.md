@@ -31,12 +31,12 @@ Every record carries the print size, the required background colour and the reso
 ## Quick start
 
 ```bash
-curl -s https://raw.githubusercontent.com/idphotowork/specs/main/data/specs.json | jq '.[] | select(.countryCode=="JP" and .documentType=="passport")'
+curl -s https://raw.githubusercontent.com/zhengbangguo/idphoto-specs/main/data/specs.json | jq '.[] | select(.countryCode=="JP" and .documentType=="passport")'
 ```
 
 ```js
 const specs = await fetch(
-  'https://raw.githubusercontent.com/idphotowork/specs/main/data/specs.json'
+  'https://raw.githubusercontent.com/zhengbangguo/idphoto-specs/main/data/specs.json'
 ).then(r => r.json());
 
 const japan = specs.find(s => s.countryCode === 'JP' && s.documentType === 'passport');
@@ -47,7 +47,7 @@ console.log(japan.widthMm, japan.heightMm, japan.headMinMm, japan.headMaxMm);
 ```python
 import json, urllib.request
 
-with urllib.request.urlopen('https://raw.githubusercontent.com/idphotowork/specs/main/data/specs.json') as fh:
+with urllib.request.urlopen('https://raw.githubusercontent.com/zhengbangguo/idphoto-specs/main/data/specs.json') as fh:
     specs = json.load(fh)
 
 us = next(s for s in specs if s['documentId'] == 'us_passport')
