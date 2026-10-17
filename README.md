@@ -26,6 +26,8 @@ Maintained by [IDPhotoWork](https://www.idphotowork.com/) — a free online pass
 | Records with head-height limits | 194 |
 | Records with eye-line limits | 23 |
 
+724 unique documents. The source catalogue held 781 rows; 57 of them were the same document expressed twice (millimetres vs inches vs pixels) and were merged into one record, with the pixel variant kept as `pixelWidth` / `pixelHeight`. The merge log is in `data/quality-report.json`.
+
 Every record carries the print size, the required background colour and the resolution the spec is written for. Where the issuing authority publishes them, the record also carries the chin-to-crown head height, the eye-line position, whether glasses are allowed, whether the neutral-expression rule is legally binding, and the maximum age of the photo.
 
 ## Quick start
@@ -55,6 +57,12 @@ print(us['widthMm'], us['heightMm'], us['backgroundColor'])  # 50.8 50.8 #ffffff
 ```
 
 Need a single country? `data/by-country/JP.json` holds just that country's records.
+
+If `raw.githubusercontent.com` is slow or unreachable from your network, the same files are served by jsDelivr:
+
+```bash
+curl -s https://cdn.jsdelivr.net/gh/surecn/idphoto-specs@main/data/specs.json
+```
 
 ## Data model
 
