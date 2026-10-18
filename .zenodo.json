@@ -1,0 +1,40 @@
+{
+  "title": "IDPhotoWork Photo Specification Dataset: passport, visa and ID photo requirements for 164 countries",
+  "description": "<p>A machine-readable dataset of official photo requirements for passports, visas, identity cards, driving licences and other documents, covering 164 countries and territories and 724 unique documents.</p><p>Each record carries the print size in millimetres and pixels, the required background colour, the resolution the spec is written for, and &mdash; where the issuing authority publishes them &mdash; the chin-to-crown head height, the eye-line position, whether glasses are permitted, whether a neutral expression is legally binding, and the maximum age of the photo.</p><p>Values were collected from issuing authorities and cross-checked against at least two independent sources. Records that could not be reconciled are either omitted or flagged <code>needsReview</code> with every candidate value preserved in <code>data/quality-report.json</code>. Country-level deviations from the ICAO baseline are documented explicitly (for example the Netherlands at 26&ndash;30&nbsp;mm instead of the Schengen 32&ndash;36&nbsp;mm, Switzerland at 29&ndash;34&nbsp;mm, South Africa requiring a light grey or cream background).</p><p>Available as a single JSON array (<code>specs.json</code>), a CSV export, and per-country JSON files. A JSON Schema is included, together with the Python build and validation scripts that generate the dataset from the source catalogue.</p><p>Maintained by IDPhotoWork (https://www.idphotowork.com/), a free online passport and ID photo maker. Corrections with an official source attached are welcome via the GitHub issue tracker.</p>",
+  "creators": [
+    {
+      "name": "Guo, Zhengbang",
+      "affiliation": "IDPhotoWork"
+    }
+  ],
+  "upload_type": "dataset",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "language": "eng",
+  "version": "1.0.0",
+  "keywords": [
+    "passport photo",
+    "visa photo",
+    "ID photo",
+    "identity document",
+    "photo specification",
+    "biometric photo",
+    "ICAO",
+    "open data",
+    "computer vision",
+    "image processing"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/surecn/idphoto-specs",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://www.idphotowork.com/specs.html",
+      "relation": "isDocumentedBy",
+      "resource_type": "other"
+    }
+  ],
+  "notes": "Data licensed CC BY 4.0; build and validation scripts licensed MIT. Attribution example: \"Photo specification data from IDPhotoWork (https://www.idphotowork.com/), licensed under CC BY 4.0.\""
+}
