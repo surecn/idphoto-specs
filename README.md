@@ -5,6 +5,7 @@
 ![documents](https://img.shields.io/badge/documents-724-blue)
 ![countries](https://img.shields.io/badge/countries-164-green)
 ![license](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23449086.svg)](https://doi.org/10.5281/zenodo.23449086)
 
 Most photo tools hard-code a handful of sizes. This dataset covers the long tail: national ID cards, residence permits, driving licences, seafarer books, exam registrations and more, each with the print size the issuing authority actually asks for.
 
@@ -159,7 +160,7 @@ Data is licensed under [CC BY 4.0](LICENSE). Scripts and examples are MIT. Comme
 
 ```text
 Photo specification data from IDPhotoWork (https://www.idphotowork.com/),
-licensed under CC BY 4.0.
+licensed under CC BY 4.0. DOI: 10.5281/zenodo.23449086
 ```
 
 A link back is the only thing we ask in return for the data — it is also what funds keeping the dataset current.

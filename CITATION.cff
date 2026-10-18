@@ -5,6 +5,7 @@ type: dataset
 version: 1.0.0
 date-released: 2026-10-17
 license: CC-BY-4.0
+doi: "10.5281/zenodo.23449086"
 url: "https://github.com/surecn/idphoto-specs"
 repository-code: "https://github.com/surecn/idphoto-specs"
 keywords:
